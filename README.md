@@ -1,3 +1,4 @@
+# TrainFlow
 TrainFlow is a full - stack workout planning application that allows users to browse exercises, create workouts, and organize exercise routines.
 
 ## Features
